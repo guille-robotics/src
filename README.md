@@ -14,6 +14,7 @@ Para clonar este git se debe
 **Cosas que instalar**
 
 - `sudo apt-get install ros-humble-navigation2 ros-humble-nav2-bringup`, para el SLAM
+- `sudo apt-get install ros-humble-teleop-twist-keyboard`
 - `sudo apt-get install ros-humble-slam-toolbox`, para el SLAM
 - `sudo apt-get install ros-humble-xacro`
 - `sudo apt-get install ros-humble-robot-localization`
