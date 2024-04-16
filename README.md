@@ -53,6 +53,10 @@ Para clonar este git se debe
 - `ros2 launch slam_toolbox online_async_launch.py`
 - `rviz2 rviz2` (Hablitar TF, MAP,ODOMETRY) y selecionar fixed_frame "map"
 
+---- **Extras** ----
+- `https://www.youtube.com/watch?v=nOxywVabojk` , para instalar docker compose en Raspberry
+- `#!/usr/bin/env python3`, para evitar el problema de OSError en los códigos de Python
+
 
 
 
