@@ -57,6 +57,7 @@ install(PROGRAMS
   ${PROJECT_NAME}/odometry_publisher.py
   ${PROJECT_NAME}/velocidad_ruedas_publisher.py
   ${PROJECT_NAME}/tf_transmitter.py
+  ${PROJECT_NAME}/enco_to_odom_to_tf.py
   DESTINATION lib/${PROJECT_NAME}
 )
 
