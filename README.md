@@ -21,7 +21,9 @@ Para clonar este git se debe
 - `sudo apt-get install ros-humble-joy`
 - `sudo apt-get install ros-humble-joy-teleop`
 - `sudo apt-get install ros-humble-tf-transformations`
+- `sudo pip3 install transforms3d`
 - [Paquete del rplidar](https://github.com/babakhani/rplidar_ros2)
+
 
 
 
