@@ -25,27 +25,6 @@ pkg_check_modules(SERIAL libserial)
 
 ament_python_install_package(${PROJECT_NAME})
 
-
-
-target_include_directories(${PROJECT_NAME} PRIVATE 
-  include
-  "${SERIAL_INCLUDE_DIRS}"
-)
-
-
-
-pluginlib_export_plugin_description_file(hardware_interface robix_interface.xml)
-
-install(
-  TARGETS ${PROJECT_NAME}
-  DESTINATION lib
-)
-
-install(
-  DIRECTORY include
-  DESTINATION include
-)
-
 install(
   DIRECTORY launch
   DESTINATION share/${PROJECT_NAME}
