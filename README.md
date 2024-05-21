@@ -23,7 +23,7 @@ Para clonar este git se debe
 - `sudo apt-get install ros-humble-tf-transformations`
 - `sudo pip3 install transforms3d`
 - [Paquete del rplidar](https://github.com/babakhani/rplidar_ros2)
-- [Paquete del usbcam]( https://github.com/ros-drivers/usb_cam/tree/ros2
+- https://github.com/ros-drivers/usb_cam/tree/ros2
 
 
 
