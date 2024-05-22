@@ -59,6 +59,7 @@ Para clonar este git se debe
 ---- **Extras** ----
 - `https://www.youtube.com/watch?v=nOxywVabojk` , para instalar docker compose en Raspberry
 - `#!/usr/bin/env python3`, para evitar el problema de OSError en los códigos de Python
+- `https://fgcoca.github.io/Mis-notas-sobre-Linux-Ubuntu/ch340/`, dispositivos Serial CH340 Ubuntu 22.04
 
 
 
