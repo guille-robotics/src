@@ -57,7 +57,7 @@ Para clonar este git se debe
 - `rviz2 rviz2` (Hablitar TF, MAP,ODOMETRY) y selecionar fixed_frame "map"
 
 ---- **Extras** ----
-- `https://www.youtube.com/watch?v=nOxywVabojk` , para instalar docker compose en Raspberry
+- `https://www.youtube.com/watch?v=nOxywVabojk` , para instalar docker compose en Raspberry (sudo apt install docker-compose)
 - `#!/usr/bin/env python3`, para evitar el problema de OSError en los códigos de Python
 - `https://fgcoca.github.io/Mis-notas-sobre-Linux-Ubuntu/ch340/`, dispositivos Serial CH340 Ubuntu 22.04
 - `https://askubuntu.com/questions/896860/usr-bin-env-python3-r-no-such-file-or-directory`, de Windows a Linux
